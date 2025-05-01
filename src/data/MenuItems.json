@@ -1,0 +1,101 @@
+{
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Chicken Biryani",
+        "price": 400.00,
+        "description": "Aromatic basmati rice cooked with spiced chicken and saffron",
+        "category": "signature",
+        "dietary": ["spicy"]
+      },
+      {
+        "id": 2,
+        "name": "Beef Nihari",
+        "price": 2200.00,
+        "description": "Slow-cooked beef stew rich in spices and served with naan",
+        "category": "signature",
+        "dietary": ["spicy"]
+      },
+      {
+        "id": 3,
+        "name": "Chicken Karahi",
+        "price": 2800.00,
+        "description": "Tender chicken in a spicy tomato-based gravy served in a wok",
+        "category": "signature",
+        "dietary": ["spicy", "gluten-free"]
+      },
+      {
+        "id": 4,
+        "name": "Palak Paneer",
+        "price": 1800.00,
+        "description": "Creamy spinach curry with soft paneer cubes",
+        "category": "signature",
+        "dietary": ["vegetarian", "gluten-free"]
+      },
+      {
+        "id": 5,
+        "name": "Chapli Kebab",
+        "price": 400.00,
+        "description": "Minced meat patties infused with herbs and spices, grilled to perfection",
+        "category": "signature",
+        "dietary": ["spicy"]
+      },
+      {
+        "id": 6,
+        "name": "Mint Lemonade",
+        "price": 350.00,
+        "description": "A cool blend of lemon juice, mint, and soda water",
+        "category": "cocktail",
+        "dietary": ["vegan", "gluten-free"]
+      },
+      {
+        "id": 7,
+        "name": "Pomegranate Fizz",
+        "price": 450.00,
+        "description": "Sparkling mocktail with pomegranate juice and citrus notes",
+        "category": "cocktail",
+        "dietary": ["vegan", "gluten-free"]
+      },
+      {
+        "id": 8,
+        "name": "Mango Lassi",
+        "price": 350.00,
+        "description": "A sweet and creamy yogurt-based mango drink",
+        "category": "cocktail",
+        "dietary": ["vegetarian", "gluten-free"]
+      },
+      {
+        "id": 9,
+        "name": "Gulab Jamun",
+        "price": 700.00,
+        "description": "Deep-fried milk balls soaked in rose-flavored syrup",
+        "category": "dessert",
+        "dietary": ["vegetarian"]
+      },
+      {
+        "id": 10,
+        "name": "Kheer",
+        "price": 400.00,
+        "description": "Traditional rice pudding flavored with cardamom and garnished with nuts",
+        "category": "dessert",
+        "dietary": ["vegetarian", "gluten-free"]
+      },
+      {
+        "id": 11,
+        "name": "Shahi Tukray",
+        "price": 400.00,
+        "description": "Bread pudding soaked in saffron milk and garnished with dry fruits",
+        "category": "dessert",
+        "dietary": ["vegetarian"]
+      },
+      {
+        "id": 12,
+        "name": "Rabri",
+        "price": 400.00,
+        "description": "Thickened sweetened milk with layers of cream and nuts",
+        "category": "dessert",
+        "dietary": ["vegetarian", "gluten-free"]
+      }
+    ]
+  }
+  
